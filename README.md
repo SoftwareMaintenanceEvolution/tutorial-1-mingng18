@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O-1AGqKT)
+# Introduction
+Hi! I'm Ng Gih Ming, a student in the Software Maintenance
+and Evolution course.
+Throughtout this course, I hope to learn more about software maintenance and evolution!
+- **Fun fact**: I love software engineering!
+- **Course expectations**: To gain hands-on experience in
+maintaining and evolving software.
+![My Image](gih-ming.jpg) <!-- Link to the uploaded image -->
+## GitHub Profile
+You can view my personalized GitHub profile
+[here](https://github.com/mingng18).
